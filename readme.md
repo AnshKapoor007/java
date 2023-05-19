@@ -1,1 +1,1 @@
-![alt text](./images/cheers-204742.jpg)
+![alt text](https://github.com/AnshKapoor007/java/blob/main/cheers.jpg?raw=true)
